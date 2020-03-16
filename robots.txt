@@ -1,2 +1,4 @@
 User-agent: *
 Disallow: /
+
+https://v2.5mu.cc/modules/servers/V2raySocks/osubscribe.php?sid=1203&token=Jf8KFuua8pIm
